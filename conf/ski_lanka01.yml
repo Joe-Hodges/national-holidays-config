@@ -1,0 +1,1548 @@
+---	---
+name: Sri Lanka (all)	name: Sri Lanka (all)
+years:	years:
+  '2020':	  '2020':
+  - public_holiday: true
+    date: '2020-08-01'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2020-08-03'
+    names: 
+      en: Nikini Full Moon Poya
+  - public_holiday: true
+    date: '2020-09-01'
+    names: 
+      en: Binara Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-01'
+    names: 
+      en: Adhi-Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-30'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-11-14'
+    names: 
+      en: Deepavali Festival day
+  - public_holiday: true
+    date: '2020-11-29'
+    names: 
+      en: Ill Full Moon Poya
+  - public_holiday: true
+    date: '2020-12-15'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-29'
+    names: 
+      en: Unduvap Full Moon Poya	  - public_holiday: true
+    date: '2020-08-01'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2020-08-03'
+    names: 
+      en: Nikini Full Moon Poya
+  - public_holiday: true
+    date: '2020-09-01'
+    names: 
+      en: Binara Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-01'
+    names: 
+      en: Adhi-Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-30'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-11-14'
+    names: 
+      en: Deepavali Festival day
+  - public_holiday: true
+    date: '2020-11-29'
+    names: 
+      en: Ill Full Moon Poya
+  - public_holiday: true
+    date: '2020-12-15'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-29'
+    names: 
+      en: Unduvap Full Moon Poya
+  '2021':	  '2021':
+"  - public_holiday: true
+    date: '2021-01-14'
+    names: 
+      en: Tamil THai Pongol day
+  - public_holiday: true
+    date: '2021-01-28'
+    names: 
+      en: Duruthu Full Moon Poya
+  - public_holiday: true
+    date: '2021-02-04'
+    names: 
+      en: National Day
+  - public_holiday: true
+    date: '2021-02-26'
+    names: 
+      en: Navam Full Moon Poya
+  - public_holiday: true
+    date: '2021-03-11'
+    names: 
+      en: Mahasivarathri Day
+  - public_holiday: true
+    date: '2021-03-28'
+    names: 
+      en: Madin Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-13'
+    names: 
+      en: Day prior to Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-14'
+    names: 
+      en: Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-26'
+    names: 
+      en: Bak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-14'
+    names: 
+      en: Id Ul-Fitr
+  - public_holiday: true
+    date: '2021-05-26'
+    names: 
+      en: Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-27'
+    names: 
+      en: Day following Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-06-24'
+    names: 
+      en: Poson Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2021-07-23'
+    names: 
+      en: Esala Full Moon Poya Day
+ 
+  - public_holiday: true
+    date: '2021-08-22'
+    names: 
+      en: Nikini Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-09-20'
+    names: 
+      en: Binara Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-10-19'
+    names: 
+      en: Milad-Un-Nabi
+  - public_holiday: true
+    date: '2021-10-20'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2021-11-04'
+    names: 
+      en: Deepavali
+  - public_holiday: true
+    date: '2021-11-18'
+    names: 
+      en: Ill Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-18'
+    names: 
+      en: Unduvap Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day"	"  - public_holiday: true
+    date: '2021-01-14'
+    names: 
+      en: Tamil THai Pongol day
+  - public_holiday: true
+    date: '2021-01-28'
+    names: 
+      en: Duruthu Full Moon Poya
+  - public_holiday: true
+    date: '2021-02-04'
+    names: 
+      en: National Day
+  - public_holiday: true
+    date: '2021-02-26'
+    names: 
+      en: Navam Full Moon Poya
+  - public_holiday: true
+    date: '2021-03-11'
+    names: 
+      en: Mahasivarathri Day
+  - public_holiday: true
+    date: '2021-03-28'
+    names: 
+      en: Madin Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-13'
+    names: 
+      en: Day prior to Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-14'
+    names: 
+      en: Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-26'
+    names: 
+      en: Bak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-14'
+    names: 
+      en: Id Ul-Fitr
+  - public_holiday: true
+    date: '2021-05-26'
+    names: 
+      en: Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-27'
+    names: 
+      en: Day following Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-06-24'
+    names: 
+      en: Poson Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2021-07-23'
+    names: 
+      en: Esala Full Moon Poya Day
+ 
+  - public_holiday: true
+    date: '2021-08-22'
+    names: 
+      en: Nikini Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-09-20'
+    names: 
+      en: Binara Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-10-19'
+    names: 
+      en: Milad-Un-Nabi
+  - public_holiday: true
+    date: '2021-10-20'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2021-11-04'
+    names: 
+      en: Deepavali
+  - public_holiday: true
+    date: '2021-11-18'
+    names: 
+      en: Ill Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-18'
+    names: 
+      en: Unduvap Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day"
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-01'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2020-08-03'
+    names: 
+      en: Nikini Full Moon Poya
+  - public_holiday: true
+    date: '2020-09-01'
+    names: 
+      en: Binara Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-01'
+    names: 
+      en: Adhi-Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-30'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-11-14'
+    names: 
+      en: Deepavali Festival day
+  - public_holiday: true
+    date: '2020-11-29'
+    names: 
+      en: Ill Full Moon Poya
+  - public_holiday: true
+    date: '2020-12-15'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-29'
+    names: 
+      en: Unduvap Full Moon Poya	
+  '2021':	
+"  - public_holiday: true
+    date: '2021-01-14'
+    names: 
+      en: Tamil THai Pongol day
+  - public_holiday: true
+    date: '2021-01-28'
+    names: 
+      en: Duruthu Full Moon Poya
+  - public_holiday: true
+    date: '2021-02-04'
+    names: 
+      en: National Day
+  - public_holiday: true
+    date: '2021-02-26'
+    names: 
+      en: Navam Full Moon Poya
+  - public_holiday: true
+    date: '2021-03-11'
+    names: 
+      en: Mahasivarathri Day
+  - public_holiday: true
+    date: '2021-03-28'
+    names: 
+      en: Madin Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-13'
+    names: 
+      en: Day prior to Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-14'
+    names: 
+      en: Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-26'
+    names: 
+      en: Bak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-14'
+    names: 
+      en: Id Ul-Fitr
+  - public_holiday: true
+    date: '2021-05-26'
+    names: 
+      en: Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-27'
+    names: 
+      en: Day following Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-06-24'
+    names: 
+      en: Poson Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2021-07-23'
+    names: 
+      en: Esala Full Moon Poya Day
+ 
+  - public_holiday: true
+    date: '2021-08-22'
+    names: 
+      en: Nikini Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-09-20'
+    names: 
+      en: Binara Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-10-19'
+    names: 
+      en: Milad-Un-Nabi
+  - public_holiday: true
+    date: '2021-10-20'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2021-11-04'
+    names: 
+      en: Deepavali
+  - public_holiday: true
+    date: '2021-11-18'
+    names: 
+      en: Ill Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-18'
+    names: 
+      en: Unduvap Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day"	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-01'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2020-08-03'
+    names: 
+      en: Nikini Full Moon Poya
+  - public_holiday: true
+    date: '2020-09-01'
+    names: 
+      en: Binara Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-01'
+    names: 
+      en: Adhi-Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-30'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-11-14'
+    names: 
+      en: Deepavali Festival day
+  - public_holiday: true
+    date: '2020-11-29'
+    names: 
+      en: Ill Full Moon Poya
+  - public_holiday: true
+    date: '2020-12-15'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-29'
+    names: 
+      en: Unduvap Full Moon Poya	
+  '2021':	
+"  - public_holiday: true
+    date: '2021-01-14'
+    names: 
+      en: Tamil THai Pongol day
+  - public_holiday: true
+    date: '2021-01-28'
+    names: 
+      en: Duruthu Full Moon Poya
+  - public_holiday: true
+    date: '2021-02-04'
+    names: 
+      en: National Day
+  - public_holiday: true
+    date: '2021-02-26'
+    names: 
+      en: Navam Full Moon Poya
+  - public_holiday: true
+    date: '2021-03-11'
+    names: 
+      en: Mahasivarathri Day
+  - public_holiday: true
+    date: '2021-03-28'
+    names: 
+      en: Madin Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-13'
+    names: 
+      en: Day prior to Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-14'
+    names: 
+      en: Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-26'
+    names: 
+      en: Bak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-14'
+    names: 
+      en: Id Ul-Fitr
+  - public_holiday: true
+    date: '2021-05-26'
+    names: 
+      en: Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-27'
+    names: 
+      en: Day following Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-06-24'
+    names: 
+      en: Poson Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2021-07-23'
+    names: 
+      en: Esala Full Moon Poya Day
+ 
+  - public_holiday: true
+    date: '2021-08-22'
+    names: 
+      en: Nikini Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-09-20'
+    names: 
+      en: Binara Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-10-19'
+    names: 
+      en: Milad-Un-Nabi
+  - public_holiday: true
+    date: '2021-10-20'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2021-11-04'
+    names: 
+      en: Deepavali
+  - public_holiday: true
+    date: '2021-11-18'
+    names: 
+      en: Ill Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-18'
+    names: 
+      en: Unduvap Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day"	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-01'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2020-08-03'
+    names: 
+      en: Nikini Full Moon Poya
+  - public_holiday: true
+    date: '2020-09-01'
+    names: 
+      en: Binara Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-01'
+    names: 
+      en: Adhi-Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-30'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-11-14'
+    names: 
+      en: Deepavali Festival day
+  - public_holiday: true
+    date: '2020-11-29'
+    names: 
+      en: Ill Full Moon Poya
+  - public_holiday: true
+    date: '2020-12-15'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-29'
+    names: 
+      en: Unduvap Full Moon Poya	
+  '2021':	
+"  - public_holiday: true
+    date: '2021-01-14'
+    names: 
+      en: Tamil THai Pongol day
+  - public_holiday: true
+    date: '2021-01-28'
+    names: 
+      en: Duruthu Full Moon Poya
+  - public_holiday: true
+    date: '2021-02-04'
+    names: 
+      en: National Day
+  - public_holiday: true
+    date: '2021-02-26'
+    names: 
+      en: Navam Full Moon Poya
+  - public_holiday: true
+    date: '2021-03-11'
+    names: 
+      en: Mahasivarathri Day
+  - public_holiday: true
+    date: '2021-03-28'
+    names: 
+      en: Madin Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-13'
+    names: 
+      en: Day prior to Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-14'
+    names: 
+      en: Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-26'
+    names: 
+      en: Bak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-14'
+    names: 
+      en: Id Ul-Fitr
+  - public_holiday: true
+    date: '2021-05-26'
+    names: 
+      en: Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-27'
+    names: 
+      en: Day following Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-06-24'
+    names: 
+      en: Poson Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2021-07-23'
+    names: 
+      en: Esala Full Moon Poya Day
+ 
+  - public_holiday: true
+    date: '2021-08-22'
+    names: 
+      en: Nikini Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-09-20'
+    names: 
+      en: Binara Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-10-19'
+    names: 
+      en: Milad-Un-Nabi
+  - public_holiday: true
+    date: '2021-10-20'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2021-11-04'
+    names: 
+      en: Deepavali
+  - public_holiday: true
+    date: '2021-11-18'
+    names: 
+      en: Ill Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-18'
+    names: 
+      en: Unduvap Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day"	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-01'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2020-08-03'
+    names: 
+      en: Nikini Full Moon Poya
+  - public_holiday: true
+    date: '2020-09-01'
+    names: 
+      en: Binara Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-01'
+    names: 
+      en: Adhi-Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-30'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-11-14'
+    names: 
+      en: Deepavali Festival day
+  - public_holiday: true
+    date: '2020-11-29'
+    names: 
+      en: Ill Full Moon Poya
+  - public_holiday: true
+    date: '2020-12-15'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-29'
+    names: 
+      en: Unduvap Full Moon Poya	
+  '2021':	
+"  - public_holiday: true
+    date: '2021-01-14'
+    names: 
+      en: Tamil THai Pongol day
+  - public_holiday: true
+    date: '2021-01-28'
+    names: 
+      en: Duruthu Full Moon Poya
+  - public_holiday: true
+    date: '2021-02-04'
+    names: 
+      en: National Day
+  - public_holiday: true
+    date: '2021-02-26'
+    names: 
+      en: Navam Full Moon Poya
+  - public_holiday: true
+    date: '2021-03-11'
+    names: 
+      en: Mahasivarathri Day
+  - public_holiday: true
+    date: '2021-03-28'
+    names: 
+      en: Madin Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-13'
+    names: 
+      en: Day prior to Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-14'
+    names: 
+      en: Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-26'
+    names: 
+      en: Bak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-14'
+    names: 
+      en: Id Ul-Fitr
+  - public_holiday: true
+    date: '2021-05-26'
+    names: 
+      en: Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-27'
+    names: 
+      en: Day following Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-06-24'
+    names: 
+      en: Poson Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2021-07-23'
+    names: 
+      en: Esala Full Moon Poya Day
+ 
+  - public_holiday: true
+    date: '2021-08-22'
+    names: 
+      en: Nikini Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-09-20'
+    names: 
+      en: Binara Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-10-19'
+    names: 
+      en: Milad-Un-Nabi
+  - public_holiday: true
+    date: '2021-10-20'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2021-11-04'
+    names: 
+      en: Deepavali
+  - public_holiday: true
+    date: '2021-11-18'
+    names: 
+      en: Ill Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-18'
+    names: 
+      en: Unduvap Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day"	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-01'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2020-08-03'
+    names: 
+      en: Nikini Full Moon Poya
+  - public_holiday: true
+    date: '2020-09-01'
+    names: 
+      en: Binara Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-01'
+    names: 
+      en: Adhi-Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-30'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-11-14'
+    names: 
+      en: Deepavali Festival day
+  - public_holiday: true
+    date: '2020-11-29'
+    names: 
+      en: Ill Full Moon Poya
+  - public_holiday: true
+    date: '2020-12-15'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-29'
+    names: 
+      en: Unduvap Full Moon Poya	
+  '2021':	
+"  - public_holiday: true
+    date: '2021-01-14'
+    names: 
+      en: Tamil THai Pongol day
+  - public_holiday: true
+    date: '2021-01-28'
+    names: 
+      en: Duruthu Full Moon Poya
+  - public_holiday: true
+    date: '2021-02-04'
+    names: 
+      en: National Day
+  - public_holiday: true
+    date: '2021-02-26'
+    names: 
+      en: Navam Full Moon Poya
+  - public_holiday: true
+    date: '2021-03-11'
+    names: 
+      en: Mahasivarathri Day
+  - public_holiday: true
+    date: '2021-03-28'
+    names: 
+      en: Madin Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-13'
+    names: 
+      en: Day prior to Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-14'
+    names: 
+      en: Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-26'
+    names: 
+      en: Bak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-14'
+    names: 
+      en: Id Ul-Fitr
+  - public_holiday: true
+    date: '2021-05-26'
+    names: 
+      en: Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-27'
+    names: 
+      en: Day following Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-06-24'
+    names: 
+      en: Poson Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2021-07-23'
+    names: 
+      en: Esala Full Moon Poya Day
+ 
+  - public_holiday: true
+    date: '2021-08-22'
+    names: 
+      en: Nikini Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-09-20'
+    names: 
+      en: Binara Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-10-19'
+    names: 
+      en: Milad-Un-Nabi
+  - public_holiday: true
+    date: '2021-10-20'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2021-11-04'
+    names: 
+      en: Deepavali
+  - public_holiday: true
+    date: '2021-11-18'
+    names: 
+      en: Ill Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-18'
+    names: 
+      en: Unduvap Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day"	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-01'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2020-08-03'
+    names: 
+      en: Nikini Full Moon Poya
+  - public_holiday: true
+    date: '2020-09-01'
+    names: 
+      en: Binara Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-01'
+    names: 
+      en: Adhi-Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-30'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-11-14'
+    names: 
+      en: Deepavali Festival day
+  - public_holiday: true
+    date: '2020-11-29'
+    names: 
+      en: Ill Full Moon Poya
+  - public_holiday: true
+    date: '2020-12-15'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-29'
+    names: 
+      en: Unduvap Full Moon Poya	
+  '2021':	
+"  - public_holiday: true
+    date: '2021-01-14'
+    names: 
+      en: Tamil THai Pongol day
+  - public_holiday: true
+    date: '2021-01-28'
+    names: 
+      en: Duruthu Full Moon Poya
+  - public_holiday: true
+    date: '2021-02-04'
+    names: 
+      en: National Day
+  - public_holiday: true
+    date: '2021-02-26'
+    names: 
+      en: Navam Full Moon Poya
+  - public_holiday: true
+    date: '2021-03-11'
+    names: 
+      en: Mahasivarathri Day
+  - public_holiday: true
+    date: '2021-03-28'
+    names: 
+      en: Madin Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-13'
+    names: 
+      en: Day prior to Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-14'
+    names: 
+      en: Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-26'
+    names: 
+      en: Bak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-14'
+    names: 
+      en: Id Ul-Fitr
+  - public_holiday: true
+    date: '2021-05-26'
+    names: 
+      en: Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-27'
+    names: 
+      en: Day following Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-06-24'
+    names: 
+      en: Poson Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2021-07-23'
+    names: 
+      en: Esala Full Moon Poya Day
+ 
+  - public_holiday: true
+    date: '2021-08-22'
+    names: 
+      en: Nikini Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-09-20'
+    names: 
+      en: Binara Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-10-19'
+    names: 
+      en: Milad-Un-Nabi
+  - public_holiday: true
+    date: '2021-10-20'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2021-11-04'
+    names: 
+      en: Deepavali
+  - public_holiday: true
+    date: '2021-11-18'
+    names: 
+      en: Ill Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-18'
+    names: 
+      en: Unduvap Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day"	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-01'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2020-08-03'
+    names: 
+      en: Nikini Full Moon Poya
+  - public_holiday: true
+    date: '2020-09-01'
+    names: 
+      en: Binara Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-01'
+    names: 
+      en: Adhi-Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-30'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-11-14'
+    names: 
+      en: Deepavali Festival day
+  - public_holiday: true
+    date: '2020-11-29'
+    names: 
+      en: Ill Full Moon Poya
+  - public_holiday: true
+    date: '2020-12-15'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-29'
+    names: 
+      en: Unduvap Full Moon Poya	
+  '2021':	
+"  - public_holiday: true
+    date: '2021-01-14'
+    names: 
+      en: Tamil THai Pongol day
+  - public_holiday: true
+    date: '2021-01-28'
+    names: 
+      en: Duruthu Full Moon Poya
+  - public_holiday: true
+    date: '2021-02-04'
+    names: 
+      en: National Day
+  - public_holiday: true
+    date: '2021-02-26'
+    names: 
+      en: Navam Full Moon Poya
+  - public_holiday: true
+    date: '2021-03-11'
+    names: 
+      en: Mahasivarathri Day
+  - public_holiday: true
+    date: '2021-03-28'
+    names: 
+      en: Madin Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-13'
+    names: 
+      en: Day prior to Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-14'
+    names: 
+      en: Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-26'
+    names: 
+      en: Bak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-14'
+    names: 
+      en: Id Ul-Fitr
+  - public_holiday: true
+    date: '2021-05-26'
+    names: 
+      en: Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-27'
+    names: 
+      en: Day following Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-06-24'
+    names: 
+      en: Poson Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2021-07-23'
+    names: 
+      en: Esala Full Moon Poya Day
+ 
+  - public_holiday: true
+    date: '2021-08-22'
+    names: 
+      en: Nikini Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-09-20'
+    names: 
+      en: Binara Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-10-19'
+    names: 
+      en: Milad-Un-Nabi
+  - public_holiday: true
+    date: '2021-10-20'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2021-11-04'
+    names: 
+      en: Deepavali
+  - public_holiday: true
+    date: '2021-11-18'
+    names: 
+      en: Ill Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-18'
+    names: 
+      en: Unduvap Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day"	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-01'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2020-08-03'
+    names: 
+      en: Nikini Full Moon Poya
+  - public_holiday: true
+    date: '2020-09-01'
+    names: 
+      en: Binara Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-01'
+    names: 
+      en: Adhi-Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-30'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-11-14'
+    names: 
+      en: Deepavali Festival day
+  - public_holiday: true
+    date: '2020-11-29'
+    names: 
+      en: Ill Full Moon Poya
+  - public_holiday: true
+    date: '2020-12-15'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-29'
+    names: 
+      en: Unduvap Full Moon Poya	
+  '2021':	
+"  - public_holiday: true
+    date: '2021-01-14'
+    names: 
+      en: Tamil THai Pongol day
+  - public_holiday: true
+    date: '2021-01-28'
+    names: 
+      en: Duruthu Full Moon Poya
+  - public_holiday: true
+    date: '2021-02-04'
+    names: 
+      en: National Day
+  - public_holiday: true
+    date: '2021-02-26'
+    names: 
+      en: Navam Full Moon Poya
+  - public_holiday: true
+    date: '2021-03-11'
+    names: 
+      en: Mahasivarathri Day
+  - public_holiday: true
+    date: '2021-03-28'
+    names: 
+      en: Madin Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-13'
+    names: 
+      en: Day prior to Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-14'
+    names: 
+      en: Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-26'
+    names: 
+      en: Bak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-14'
+    names: 
+      en: Id Ul-Fitr
+  - public_holiday: true
+    date: '2021-05-26'
+    names: 
+      en: Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-27'
+    names: 
+      en: Day following Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-06-24'
+    names: 
+      en: Poson Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2021-07-23'
+    names: 
+      en: Esala Full Moon Poya Day
+ 
+  - public_holiday: true
+    date: '2021-08-22'
+    names: 
+      en: Nikini Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-09-20'
+    names: 
+      en: Binara Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-10-19'
+    names: 
+      en: Milad-Un-Nabi
+  - public_holiday: true
+    date: '2021-10-20'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2021-11-04'
+    names: 
+      en: Deepavali
+  - public_holiday: true
+    date: '2021-11-18'
+    names: 
+      en: Ill Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-18'
+    names: 
+      en: Unduvap Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day"	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-01'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2020-08-03'
+    names: 
+      en: Nikini Full Moon Poya
+  - public_holiday: true
+    date: '2020-09-01'
+    names: 
+      en: Binara Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-01'
+    names: 
+      en: Adhi-Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-10-30'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2020-11-14'
+    names: 
+      en: Deepavali Festival day
+  - public_holiday: true
+    date: '2020-11-29'
+    names: 
+      en: Ill Full Moon Poya
+  - public_holiday: true
+    date: '2020-12-15'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-29'
+    names: 
+      en: Unduvap Full Moon Poya	
+  '2021':	
+"  - public_holiday: true
+    date: '2021-01-14'
+    names: 
+      en: Tamil THai Pongol day
+  - public_holiday: true
+    date: '2021-01-28'
+    names: 
+      en: Duruthu Full Moon Poya
+  - public_holiday: true
+    date: '2021-02-04'
+    names: 
+      en: National Day
+  - public_holiday: true
+    date: '2021-02-26'
+    names: 
+      en: Navam Full Moon Poya
+  - public_holiday: true
+    date: '2021-03-11'
+    names: 
+      en: Mahasivarathri Day
+  - public_holiday: true
+    date: '2021-03-28'
+    names: 
+      en: Madin Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-13'
+    names: 
+      en: Day prior to Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-14'
+    names: 
+      en: Sinhala & Tamil New Year Day
+  - public_holiday: true
+    date: '2021-04-26'
+    names: 
+      en: Bak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-14'
+    names: 
+      en: Id Ul-Fitr
+  - public_holiday: true
+    date: '2021-05-26'
+    names: 
+      en: Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-05-27'
+    names: 
+      en: Day following Vesak Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-06-24'
+    names: 
+      en: Poson Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Id Ul-Alha
+  - public_holiday: true
+    date: '2021-07-23'
+    names: 
+      en: Esala Full Moon Poya Day
+ 
+  - public_holiday: true
+    date: '2021-08-22'
+    names: 
+      en: Nikini Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-09-20'
+    names: 
+      en: Binara Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-10-19'
+    names: 
+      en: Milad-Un-Nabi
+  - public_holiday: true
+    date: '2021-10-20'
+    names: 
+      en: Vap Full Moon Poya
+  - public_holiday: true
+    date: '2021-11-04'
+    names: 
+      en: Deepavali
+  - public_holiday: true
+    date: '2021-11-18'
+    names: 
+      en: Ill Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-18'
+    names: 
+      en: Unduvap Full Moon Poya Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day"	
+  '0':	
+#N/A	
